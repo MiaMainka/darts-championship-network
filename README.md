@@ -71,7 +71,6 @@ Details zu Interpretation, Diskussion und Limitationen siehe Projektbericht.
 | [`Ausarbeitung.md`](./Ausarbeitung.md) | Vollständiger Projektbericht (direkt auf GitHub lesbar) |
 | `darts_goat_notebook.ipynb` | Reproduzierbares Analyse-Notebook (Graphaufbau, Zentralitäten, Robustheitscheck, Visualisierungen) |
 | `darts_matches_world_championship.csv` | Erhobener Matchdatensatz |
-| Scraping-Skript | Python-Skript zur Datenerhebung von dartsdatabase.co.uk |
 | `goat_ranking.png`, `zentralitaeten_vergleich.png`, `turnier_netzwerk.png` | Im Notebook erzeugte Abbildungen |
 
 ## Ausführen des Notebooks

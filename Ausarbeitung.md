@@ -114,4 +114,4 @@ dartsdatabase.co.uk (2026). PDC World Championship Results 1994 bis 2026. Abgeru
 
 ## Anhang
 
-Der vollständige Analysecode befindet sich im beigefügten Jupyter-Notebook (`darts_goat_notebook.ipynb`). Die zugrundeliegenden Matchdaten sind in der Datei `darts_matches_world_championship.csv` enthalten. Das zur Datenerhebung verwendete Scraping-Skript liegt der Abgabe ebenfalls bei. Die im Notebook erzeugten Abbildungen (GOAT-Ranking, Vergleich der Zentralitätsmaße, Turniernetzwerk 2024) können an den passenden Stellen in diese Ausarbeitung eingefügt werden.
+Der vollständige Analysecode befindet sich im beigefügten Jupyter-Notebook (`darts_goat_notebook.ipynb`). Die zugrundeliegenden Matchdaten sind in der Datei `darts_matches_world_championship.csv` enthalten. Die im Notebook erzeugten Abbildungen (GOAT-Ranking, Vergleich der Zentralitätsmaße, Turniernetzwerk 2024) können an den passenden Stellen in diese Ausarbeitung eingefügt werden.
