@@ -111,7 +111,3 @@ Niemeyer, P. (2026). Vorlesungsunterlagen Netzwerkprojekt Wirtschaftsinformatik.
 Temesi, J., Szádoczki, Z. & Bozóki, S. (2023). Incomplete pairwise comparison matrices: Ranking top women tennis players. Journal of the Operational Research Society.
 
 dartsdatabase.co.uk (2026). PDC World Championship Results 1994 bis 2026. Abgerufen im Mai 2026.
-
-## Anhang
-
-Der vollständige Analysecode befindet sich im beigefügten Jupyter-Notebook (`darts_goat_notebook.ipynb`). Die zugrundeliegenden Matchdaten sind in der Datei `darts_matches_world_championship.csv` enthalten. Die im Notebook erzeugten Abbildungen (GOAT-Ranking, Vergleich der Zentralitätsmaße, Turniernetzwerk 2024) können an den passenden Stellen in diese Ausarbeitung eingefügt werden.
